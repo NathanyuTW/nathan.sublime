@@ -1,0 +1,34 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"1337 Color Scheme",
+		"1Self",
+		"A File Icon",
+		"Alignment",
+		"Boxy Theme",
+		"BracketHighlighter",
+		"Color Highlight",
+		"Compare Side-By-Side",
+		"DocBlockr",
+		"Emmet",
+		"Git",
+		"gruvbox",
+		"HTML-CSS-JS Prettify",
+		"HTML5",
+		"HTMLAttributes",
+		"jQuery",
+		"Package Control",
+		"Python Completions",
+		"Sass",
+		"SFTP",
+		"SideBarEnhancements",
+		"SublimeLinter",
+		"SublimeLinter-php",
+		"Terminal",
+		"Theme - Monokai Pro"
+	]
+}

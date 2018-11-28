@@ -1,0 +1,6 @@
+[
+	{ "keys": ["super+ctrl+l"], "command": "alignment" },
+	{ "keys": ["super+i"], "command": "copy_path" },
+	{ "keys": ["ctrl+v"], "command": "reveal_in_side_bar" },
+	{ "keys": ["ctrl+super+r"], "command": "context_goto_definitio" },
+]
