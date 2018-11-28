@@ -22,8 +22,8 @@ $cp Preferences.sublime-settings \
 /Users/nathan/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings
 ```
 ##
-![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 
-Need to Manual installation those Package
+
+<font color="#FF5731">__Need to Manual installation those Package__</font>
 
 sublime-settings.no-sublime-package 
 
